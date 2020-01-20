@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from scrapy_redis_demo.spiders import RedisSpider
+from scrapy_redis2.spiders import RedisSpider
 
 
 class ExampleSpider(RedisSpider):
